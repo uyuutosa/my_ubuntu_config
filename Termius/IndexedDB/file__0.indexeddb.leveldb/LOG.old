@@ -1,0 +1,14 @@
+2022/04/24-10:12:22.429 4268 Reusing MANIFEST /home/yu/.config/Termius/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2022/04/24-10:12:22.429 4268 Recovering log #10
+2022/04/24-10:12:22.447 4268 Reusing old log /home/yu/.config/Termius/IndexedDB/file__0.indexeddb.leveldb/000010.log 
+2022/04/24-10:12:22.447 4268 Delete type=2 #8
+2022/04/24-10:12:22.447 4268 Delete type=2 #11
+2022/04/30-22:41:08.595 4811 Level-0 table #15: started
+2022/04/30-22:41:08.625 4811 Level-0 table #15: 1760759 bytes OK
+2022/04/30-22:41:08.627 4811 Delete type=0 #10
+2022/04/30-22:41:09.116 4812 Compacting 1@1 + 1@2 files
+2022/04/30-22:41:09.125 4812 Generated table #16@1: 1317 keys, 119898 bytes
+2022/04/30-22:41:09.125 4812 Compacted 1@1 + 1@2 files => 119898 bytes
+2022/04/30-22:41:09.126 4812 compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/04/30-22:41:09.126 4812 Delete type=2 #12
+2022/04/30-22:41:09.126 4812 Delete type=2 #15
